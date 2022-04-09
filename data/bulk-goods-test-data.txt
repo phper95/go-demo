@@ -1,0 +1,68 @@
+{"index":{"_index":"goods","_id":1}}
+{"id":1,"name":"iphone","price":4200,"year":2007,"last_month_sales":0,"favorites":80000}
+{"index":{"_index":"goods","_id":2}}
+{"id":2,"name":"iphone 3G","price":4300,"year":2008,"last_month_sales":0,"favorites":77000}
+{"index":{"_index":"goods","_id":3}}
+{"id":3,"name":"iphone 3GS","price":4400,"year":2009,"last_month_sales":0,"favorites":72000}
+{"index":{"_index":"goods","_id":4}}
+{"id":4,"name":"iphone 4","price":4500,"year":2010,"last_month_sales":97,"favorites":972000}
+{"index":{"_index":"goods","_id":5}}
+{"id":5,"name":"iphone 4S","price":4600,"year":2011,"last_month_sales":100,"favorites":876000}
+{"index":{"_index":"goods","_id":6}}
+{"id":6,"name":"iphone 5","price":4700,"year":2012,"last_month_sales":147,"favorites":7769000}
+{"index":{"_index":"goods","_id":7}}
+{"id":7,"name":"iphone 5S","price":4800,"year":2013,"last_month_sales":153,"favorites":7869000}
+{"index":{"_index":"goods","_id":8}}
+{"id":8,"name":"iphone 5C","price":4900,"year":2013,"last_month_sales":146,"favorites":7269000}
+{"index":{"_index":"goods","_id":9}}
+{"id":9,"name":"iphone 6","price":5000,"year":2014,"last_month_sales":573,"favorites":17600000}
+{"index":{"_index":"goods","_id":10}}
+{"id":10,"name":"iphone 6 Plus","price":5100,"year":2014,"last_month_sales":760,"favorites":19500000}
+{"index":{"_index":"goods","_id":11}}
+{"id":11,"name":"iphone 6s","price":5200,"year":2015,"last_month_sales":976,"favorites":119200000}
+{"index":{"_index":"goods","_id":12}}
+{"id":12,"name":"iphone 6s plus","price":5300,"year":2015,"last_month_sales":1076,"favorites":179200000}
+{"index":{"_index":"goods","_id":13}}
+{"id":13,"name":"iphone SE","price":5400,"year":2016,"last_month_sales":1476,"favorites":279200000}
+{"index":{"_index":"goods","_id":14}}
+{"id":14,"name":"iphone 7","price":5500,"year":2016,"last_month_sales":1476,"favorites":379200000}
+{"index":{"_index":"goods","_id":15}}
+{"id":15,"name":"iphone 7 Plus","price":5600,"year":2016,"last_month_sales":1476,"favorites":399200000}
+{"index":{"_index":"goods","_id":16}}
+{"id":16,"name":"iphone 8","price":5700,"year":2017,"last_month_sales":1576,"favorites":499200000}
+{"index":{"_index":"goods","_id":17}}
+{"id":17,"name":"iphone 8 Plus","price":5800,"year":2017,"last_month_sales":1576,"favorites":599200000}
+{"index":{"_index":"goods","_id":18}}
+{"id":18,"name":"iphone XR","price":5900,"year":2018,"last_month_sales":1576,"favorites":699200000}
+{"index":{"_index":"goods","_id":19}}
+{"id":19,"name":"iphone XS","price":6000,"year":2018,"last_month_sales":1576,"favorites":694200000}
+{"index":{"_index":"goods","_id":20}}
+{"id":20,"name":"iphone XS Max","price":6500,"year":2018,"last_month_sales":1576,"favorites":695200000}
+{"index":{"_index":"goods","_id":21}}
+{"id":21,"name":"iphone 11","price":7000,"year":2019,"last_month_sales":1876,"favorites":794200000}
+{"index":{"_index":"goods","_id":22}}
+{"id":22,"name":"iphone 11 Pro","price":7200,"year":2019,"last_month_sales":1876,"favorites":795200000}
+{"index":{"_index":"goods","_id":23}}
+{"id":23,"name":"iphone 11 Pro Max","price":7500,"year":2019,"last_month_sales":1876,"favorites":798200000}
+{"index":{"_index":"goods","_id":24}}
+{"id":24,"name":"iphone SE 2","price":7000,"year":2020,"last_month_sales":1976,"favorites":895200000}
+{"index":{"_index":"goods","_id":25}}
+{"id":25,"name":"iphone 12","price":7500,"year":2020,"last_month_sales":1976,"favorites":995200000}
+{"index":{"_index":"goods","_id":26}}
+{"id":26,"name":"iphone 12 mini","price":7000,"year":2020,"last_month_sales":1976,"favorites":985200000}
+{"index":{"_index":"goods","_id":27}}
+{"id":27,"name":"iphone 12 Pro","price":8000,"year":2020,"last_month_sales":1976,"favorites":1005200000}
+{"index":{"_index":"goods","_id":28}}
+{"id":28,"name":"iphone 12 Pro Max","price":8500,"year":2020,"last_month_sales":1976,"favorites":1505200000}
+{"index":{"_index":"goods","_id":29}}
+{"id":29,"name":"iphone 13","price":8000,"year":2021,"last_month_sales":2976,"favorites":1605200000}
+{"index":{"_index":"goods","_id":30}}
+{"id":30,"name":"iphone 13 mini","price":7800,"year":2021,"last_month_sales":2976,"favorites":1305200000}
+{"index":{"_index":"goods","_id":31}}
+{"id":31,"name":"iphone 13 Pro","price":8200,"year":2021,"last_month_sales":2976,"favorites":1505200000}
+{"index":{"_index":"goods","_id":32}}
+{"id":32,"name":"iphone 13 Pro Max","price":8800,"year":2021,"last_month_sales":2976,"favorites":1605200000}
+{"index":{"_index":"goods","_id":33}}
+{"id":33,"name":"iphone SE (第三代)","price":8500,"year":2022,"last_month_sales":1976,"favorites":1605200000}
+{"index":{"_index":"goods","_id":34}}
+{"id":34,"name":"iphone 全系列手机壳送iphone手机膜","price":30,"year":2022,"last_month_sales":1976,"favorites":8000}
